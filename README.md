@@ -375,6 +375,10 @@ This repo collects efficient approaches for AI-generated content (AIGC) to cope 
 - [[ArXiv](https://arxiv.org/abs/2309.10438)] AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration
 - [[ArXiv](https://arxiv.org/abs/2308.10187)] Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks [[code](https://github.com/Arktis2022/Spiking-Diffusion)]
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Efficient-ML/Awesome-Efficient-AIGC&type=Timeline)](https://star-history.com/#Efficient-ML/Awesome-Efficient-AIGC&Timeline)
+
 ## Awesome-Repo
 
 - https://github.com/htqin/Awesome-Model-Quantization ![GitHub Repo stars](https://img.shields.io/github/stars/htqin/awesome-model-quantization)
