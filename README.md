@@ -1,6 +1,6 @@
-# Awesome Efficient AIGC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Efficient LLM and Diffusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repo collects efficient approaches for AI-generated content (AIGC) to cope with its huge demand for computing resources, including efficient Large Language Models (LLMs), Diffusion Models (DMs), etc. We are continuously improving the project. Welcome to PR the works (papers, repositories) missed by the repo.
+This repo collects efficient approaches for large language models (LLMs) and diffusion models (DMs) to cope with the huge demand for computing resources. We are continuously improving the project. Welcome to PR the works (papers, repositories) missed by the repo.
 ## Table of Contents
 
   - [Survey](#survey)
@@ -377,7 +377,7 @@ This repo collects efficient approaches for AI-generated content (AIGC) to cope 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Efficient-ML/Awesome-Efficient-AIGC&type=Timeline)](https://star-history.com/#Efficient-ML/Awesome-Efficient-AIGC&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=Efficient-ML/Awesome-Efficient-LLM-Diffusion&type=Timeline)](https://star-history.com/#Efficient-ML/Awesome-Efficient-LLM-Diffusion&Timeline)
 
 ## Awesome-Repo
 
