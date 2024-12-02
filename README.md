@@ -1,7 +1,6 @@
-# Awesome Efficient AIGC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Efficient LLM and Diffusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repo collects efficient approaches for AI-Generated Content (AIGC) to cope with its huge demand for computing resources, including efficient Large Language Models (LLMs), Diffusion Models (DMs), etc. We are continuously improving the project. Welcome to PR the works (papers, repositories) missed by the repo. Special thanks to [Xingyu Zheng](https://github.com/Xingyu-Zheng), [Xudong Ma](https://github.com/Macaronlin), [Yifu Ding](https://yifu-ding.github.io/#/), and all researchers who have contributed to this project!
-
+This repo collects efficient approaches for large language models (LLMs) and diffusion models (DMs) to cope with the huge demand for computing resources. We are continuously improving the project. Welcome to PR the works (papers, repositories) missed by the repo.
 ## Table of Contents
 
   - [Survey](#survey)
@@ -379,6 +378,10 @@ This repo collects efficient approaches for AI-Generated Content (AIGC) to cope 
 
 - [[ArXiv](https://arxiv.org/abs/2309.10438)] AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration
 - [[ArXiv](https://arxiv.org/abs/2308.10187)] Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks [[code](https://github.com/Arktis2022/Spiking-Diffusion)]
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Efficient-ML/Awesome-Efficient-LLM-Diffusion&type=Timeline)](https://star-history.com/#Efficient-ML/Awesome-Efficient-LLM-Diffusion&Timeline)
 
 ## Awesome-Repo
 
