@@ -338,6 +338,10 @@ This repo collects efficient approaches for AI-Generated Content (AIGC) to cope 
 
 - [[ArXiv](https://arxiv.org/abs/2404.05662)] BinaryDM: Towards Accurate Binarization of Diffusion Model [[code](https://github.com/Xingyu-Zheng/BinaryDM)]![GitHub Repo stars](https://img.shields.io/github/stars/Xingyu-Zheng/BinaryDM)
 
+**Other**
+
+- [[HuggingFace](https://huggingface.co/Lightricks/LTX-Video)] LTX-Video: A Lightweight Video Transformer for Efficient Video Generation [[code](https://github.com/Lightricks/LTX-Video)]![GitHub Repo stars](https://img.shields.io/github/stars/Lightricks/LTX-Video)
+
 ### 2023
 
 **Quantization**
